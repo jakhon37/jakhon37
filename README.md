@@ -68,20 +68,6 @@ apply my skills.***
   - Study period: 2020.09.01 – 2022.08.25
   - GPA: 4.17
 
-## Projects
-
- <!--  
-- **Advanced Driver Assistance Systems (ADAS) Project - Real-time Object Detection and Collision Avoidance System**
-  - **Approaches:** Utilizing camera and LiDAR sensor fusion for accurate detection and tracking of vehicles, pedestrians, and obstacles.
-  - **Frameworks:** TensorFlow, OpenCV
-  - **Algorithms:** YOLO (You Only Look Once) v4 for fast object detection, Kalman filters for object tracking
-
-- **Driver Monitoring Systems (DMS) Project - Facial Recognition and Drowsiness Detection**
-  - **Approaches:** Continuous monitoring of driver's facial features and eye movements to detect drowsiness and distraction.
-  - **Frameworks:** OpenCV, dlib
-  - **Algorithms:** CNN-based facial landmark detection, SVM (Support Vector Machine) for emotion and drowsiness classification  
-   -->
-    
 
 ## Projects 🧠
 
