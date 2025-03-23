@@ -37,6 +37,7 @@ Main Competencies: Object Detection/Recognition/Segmentation, Object Tracking, M
 ## Publications 📝
 - "3D Volume Reconstruction from MRI Slices based on VTK." In 2021 International Conference on Information and Communication Technology Convergence (ICTC), pp. 689-692. IEEE, 2021.
 - “Attention 3D U-Net with Multiple Skip Connections for Segmentation of Brain Tumor Images” in Sensors 22, no. 17 (2022): 6501.
+https://scholar.google.com/citations?user=yt1yJyAAAAAJ&hl=en&authuser=1 
 
 ## Work Experience 💼
 ### AIVAR
