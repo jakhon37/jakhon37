@@ -1,4 +1,5 @@
-**Jakhongir Nodirov** — AI research engineer. Computer vision, industrial inspection, robotics.
+**Jakhongir Nodirov** — AI research engineer at HyVision System, Seongnam.
+Computer vision, industrial inspection, robotics.
 
 [Website](https://jakhon37.github.io) · [Scholar](https://scholar.google.com/citations?user=yt1yJyAAAAAJ) · [LinkedIn](https://www.linkedin.com/in/jakhongir-nodirov-jakhon37)
 
