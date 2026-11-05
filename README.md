@@ -6,8 +6,8 @@ Computer vision, industrial inspection, robotics.
 **Selected work**
 
 - [autoJetsonBot](https://github.com/jakhon37/autoJetsonBot): ROS 2 mobile robot on a Jetson Nano with SLAM, Nav2 and an ESP32 motor bridge.
-- [autojetsonbot-learning](https://github.com/jakhon37/autojetsonbot-learning): camera-only docking with LeRobot, behaviour cloning, a C++ safety gate and paired trials. Simulation results so far.
-- [smolvla-latency](https://github.com/jakhon37/smolvla-latency): where SmolVLA's time goes, through ONNX and a C++17 runtime. CPU results so far.
+- [camera-only-docking](https://github.com/jakhon37/camera-only-docking): camera-only docking with LeRobot, behaviour cloning, a C++ safety gate and paired trials. Simulation results so far.
+- [smolvla-edge](https://github.com/jakhon37/smolvla-edge): where SmolVLA's time goes, through ONNX and a C++17 runtime. CPU results so far.
 - [attention-3d-unet](https://github.com/jakhon37/attention-3d-unet): code for my *Sensors* 2022 brain-tumor segmentation paper.
 - [quad-loco](https://github.com/jakhon37/quad-loco): PPO locomotion for a custom 12-DoF quadruped in MuJoCo, with ONNX export.
 - [LabelMeV2](https://github.com/jakhon37/LabelMeV2): labelme fork for large industrial images, on PyPI.
